@@ -1,0 +1,13 @@
+Obsevable Trends Based on the Data
+
+The data shows some very intersting trends with regards to the overall performance between chater versus distrct schools. 
+Below are some of the noteworthy takeaways:
+
+1. Based on the three categories of scores, it is clear that student perform moch better overall in reading than in math. This shows in the overall summary and is also evident in the school summary. As the school summary shows, the reading scores are highter than the math scores for every school. The gap between the two scores grows wider for district schools, with the mathe scores getting much lower. The overall passing is lower in schools with lower math scores. These results are more emphasized in the score by school type table.
+
+2. Comparing top performing and bottom perming schools, overall, charter schools rank among the best performing schools with very high math, reading, overall passing on average compared to district schools which rank at the bottom using the same metrics. Taking a closer look, we also observe that the top-ranking schools (charter) have lower total number of students compared to the. Of note also is that, the bottome performing schools seem to have higher per student budget on average compared to the top performing schools.
+
+3. Looking at the scores by school spending, we see that schooles with lower per student spending (i.e. below $585) have much higher pass rates in all three score categories examined, while schools with a much her per student spending (between $645 and 675) have lower passing rate. The difference if particularly pronounced in the math and overall passing scores.
+Lastly, we also observe that larg schools (i.e. schools with between 2000 and 5000 students) perform worse than small and medium sized schools in all three categories of scores.
+
+In conclusion, while that may be other factors, not represented in the data, that may explain the differences in perfomance levels, particularly in math, it is clear that more spending per student does not translate into better performance, particularly in math. Also based on the data, scholl size may have an impact on student performance, since laerger school sizes will most likely result in larger classroom sizes. There may be other qualitative factors at play like quality of teachers, Student-teacher ratio, etc.
